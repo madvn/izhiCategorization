@@ -1,0 +1,12 @@
+/gpfs/home/m/a/madcanda/BigRed2
+11
+/N/u/madcanda/BigRed2/CategorizationAgent/results/11
+Start running!
+Application 6556589 exit signals: Segmentation fault
+Application 6556589 resources: utime ~7281s, stime ~4s, Rss ~4800, inblocks ~4315, outblocks ~20747
+Done!
+Job Cleanup ran on Fri Jun 24 13:32:39 EDT 2016
+===============================
+submit_args  : 	 submit_args = -F '11' ../../CCjobScript
+NIDS         : 	 68-69,71,91
+NID Placement: 	 68/32 69/32 71/32 91/32 

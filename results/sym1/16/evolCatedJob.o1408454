@@ -1,0 +1,14 @@
+/gpfs/home/m/a/madcanda/BigRed2
+16
+/N/u/madcanda/BigRed2/CategorizationAgent/results/16
+Start running!
+Symmetric network!
+Genotype Size - 92
+Application 6631313 exit signals: Segmentation fault
+Application 6631313 resources: utime ~17565s, stime ~10s, Rss ~4772, inblocks ~4320, outblocks ~20062
+Done!
+Job Cleanup ran on Sat Jul 16 02:35:55 EDT 2016
+===============================
+submit_args  : 	 submit_args = -F '16' ../../CCjobScript
+NIDS         : 	 37,873,929,1035
+NID Placement: 	 37/32 873/32 929/32 1035/32 
